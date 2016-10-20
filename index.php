@@ -1,11 +1,5 @@
 <?php
 
-/*
- * Copyright (C) 2002-2012 AfterLogic Corp. (www.afterlogic.com)
- * Distributed under the terms of the license described in COPYING
- * 
- */
-
 class_exists('CApi') or die();
 
 class CChangeDefautFoldersPlugin extends AApiPlugin
